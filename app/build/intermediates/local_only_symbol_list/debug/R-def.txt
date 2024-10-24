@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Answer
+id CheckAnswer
+id Quiz
+id Quiz_Name
+id Solve_Button
+id Status
+id imagePhoto
+id newQuizButton
+id rv
+layout item_rv
+layout main_activity
+layout quiz_page
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string enter_your_answer_here
+string quiz
+style Theme.AppCompat
+style Theme.MathQuizSolo
+xml backup_rules
+xml data_extraction_rules

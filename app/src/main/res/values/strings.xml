@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="quiz">Quiz</string>
+    <string name="enter_your_answer_here">Enter Your Answer Here</string>
+    <string name="new_quiz">New Quiz!!</string>
+    <string name="answer">Answer!!</string>
+</resources>
